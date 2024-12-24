@@ -1,4 +1,3 @@
-# LangGraph_Chatbot_with_Tools_v1
 # LangGraph Chatbot With Tools
 
 ## Author: Dr Mike Lakoju
